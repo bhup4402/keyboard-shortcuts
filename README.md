@@ -17,6 +17,8 @@ These shortcut list is meant to remember the keyboard commands if forgotted or t
 - Jump to file or link or the file imported - `ctrl + click` (use Jumpy extension to enable this feature)
 - open previously opened file - `ctrl + shift + t`
 - Format Document - `shift + alt + f`
+- open file from promp - `ctrl + p`
+- use extention shortcut - `ctrl + shift + p`
 
 ## Browser
 
@@ -35,7 +37,7 @@ These shortcut list is meant to remember the keyboard commands if forgotted or t
 
 ## Windows Shortcut
 
-- Open File Explorer - ```win + e```
-- Open Run Prompt - ```win + r```
+- Open File Explorer - `win + e`
+- Open Run Prompt - `win + r`
 
 ### Created By [Bhupendra Madhu](https://www.github.com/bhup4402)
