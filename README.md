@@ -1,4 +1,4 @@
-# Keyboard Shortcuts for Windows (10, 111)
+# Keyboard Shortcuts for Windows (10, 1111)
 
 These shortcut list is meant to remember the keyboard commands if forgotted or to share with someone.
 
